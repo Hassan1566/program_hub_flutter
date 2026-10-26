@@ -1,0 +1,17 @@
+*.lock
+build/**
+.dart_tool/**
+.idea/**
+.vscode/**
+*.iml
+*.log
+.DS_Store
+android/**
+ios/**
+web/**
+windows/**
+macos/**
+linux/**
+coverage/**
+frozen_lockfile
+*.pub-cache/**
